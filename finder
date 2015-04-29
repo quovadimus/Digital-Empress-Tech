@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1">
+    <dict>
+        <key>PayloadUUID</key>
+        <string>D753431E-F681-48C1-8F73-0E5211792F21</string>
+        <key>PayloadType</key>
+        <string>Configuration</string>
+        <key>PayloadOrganization</key>
+        <string>Digital Empress Tech</string>
+        <key>PayloadIdentifier</key>
+        <string>D753431E-F681-48C1-8F73-0E5211792F21</string>
+        <key>PayloadDisplayName</key>
+        <string>Yosemite Finder</string>
+        <key>PayloadDescription</key>
+        <string/>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>PayloadEnabled</key>
+        <true/>
+        <key>PayloadRemovalDisallowed</key>
+        <true/>
+        <key>PayloadScope</key>
+        <string>System</string>
+        <key>PayloadContent</key>
+        <array>
+            <dict>
+                <key>PayloadUUID</key>
+                <string>4M7HR8LC-S21Z-T4RX-JAIYNYJ58OHWC</string>
+                <key>PayloadType</key>
+                <string>com.apple.finder</string>
+                <key>PayloadOrganization</key>
+                <string>Digital Empress Tech</string>
+                <key>PayloadIdentifier</key>
+                <string>4M7HR8LC-S21Z-T4RX-JAIYNYJ58OHWC</string>
+                <key>PayloadDisplayName</key>
+                <string>Media Access:  Finder Settings</string>
+                <key>PayloadDescription</key>
+                <string/>
+                <key>PayloadVersion</key>
+                <integer>1</integer>
+                <key>PayloadEnabled</key>
+                <true/>
+                <key>InterfaceLevel</key>
+                <string>Full</string>
+                <key>ShowHardDrivesOnDesktop</key>
+                <true/>
+                <key>ShowExternalHardDrivesOnDesktop</key>
+                <true/>
+                <key>ShowRemovableMediaOnDesktop</key>
+                <true/>
+                <key>ShowMountedServersOnDesktop</key>
+                <true/>
+                <key>ProhibitConnectTo</key>
+                <false/>
+                <key>ProhibitEject</key>
+                <false/>
+                <key>ProhibitGoToFolder</key>
+                <false/>
+                <key>ProhibitBurn</key>
+                <true/>
+            </dict>
+            <dict>
+                <key>PayloadUUID</key>
+                <string>S4BZ1FOY-7190-KLJQ-3EWW3DMWSS0U</string>
+                <key>PayloadType</key>
+                <string>com.apple.loginwindow</string>
+                <key>PayloadOrganization</key>
+                <string>Digital Empress Tech</string>
+                <key>PayloadIdentifier</key>
+                <string>S4BZ1FOY-7190-KLJQ-3EWW3DMWSS0U</string>
+                <key>PayloadDisplayName</key>
+                <string>Login Window</string>
+                <key>PayloadDescription</key>
+                <string/>
+                <key>PayloadVersion</key>
+                    <integer>1</integer>
+                    <key>PayloadEnabled</key>
+                    <true/>
+                    <key>RestartDisabledWhileLoggedIn</key>
+                    <false/>
+                    <key>ShutDownDisabledWhileLoggedIn</key>
+                    <false/>
+                </dict>
+            </array>
+        </dict>
+    </plist>
