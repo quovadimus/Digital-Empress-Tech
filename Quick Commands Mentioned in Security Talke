@@ -1,0 +1,11 @@
+#Adding Users to the developer group for Xcode
+
+
+sudo DevToolsSecurity -enable
+sudo dscl . append /Groups/_developer GroupMembership <username>
+
+# add current user to the _lpadmin group
+
+/usr/bin/dscl . append /Groups/_lpadmin GroupMembership ${CurrentUser}
+
+
